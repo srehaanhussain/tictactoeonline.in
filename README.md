@@ -246,35 +246,11 @@ We believe gaming should be:
 
 ---
 
-## 🎯 Roadmap
-
-### **Coming Soon**
-- [ ] Tournaments system
-- [ ] Seasonal leaderboards
-- [ ] Custom board themes
-- [ ] Advanced statistics dashboard
-- [ ] Mobile apps (iOS/Android)
-- [ ] Achievement system
-- [ ] Player profiles customization
-- [ ] Private rooms for groups
-
-### **Under Consideration**
-- [ ] Team/clan system
-- [ ] Replay system
-- [ ] Coaching mode
-- [ ] Variants (3x3, 4x4, 5x5)
-- [ ] Monetization options
-
----
-
 ## 🌍 Live Demo
 
 **Try it now:** [www.tictactoeonline.in](https://www.tictactoeonline.in)
-
 **Read our blog:** [blog.tictactoeonline.in](https://blog.tictactoeonline.in)
-
 ---
-
 ## 📊 Project Stats
 
 - **Lines of Code:** 15,000+
