@@ -17,7 +17,6 @@ Remember playing tic-tac-toe in the back of your notebook during class? We broug
 Perfect for:
 - 😌 Taking a break from stressful games
 - 👥 Quick matches with friends
-- 💑 Long-distance relationships
 - 💼 Office break time
 - 🎮 Anyone who misses simple gaming
 
