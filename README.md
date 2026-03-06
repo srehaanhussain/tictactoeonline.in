@@ -302,30 +302,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 🙏 Acknowledgments
-
-- **Firebase** - For providing an incredible real-time database platform
-- **Cloudflare** - For CDN and security services
-- **Tailwind CSS** - For the utility-first CSS framework
-- **The Community** - For feedback, support, and playing the game
-
----
-
-## 📈 Analytics & Performance
-
-### **User Metrics (Target)**
-- Monthly Active Users: Growing
-- Average Session Duration: 15-20 minutes
-- Games Played Daily: 1,000+
-- Player Retention: 40%+
-
-### **Technical Metrics**
-- Page Load Time: <2 seconds
-- Time to Interactive: <1 second
-- Lighthouse Score: 90+
-- Uptime: 99.9%
-
----
 
 ## 🌟 Support This Project
 
