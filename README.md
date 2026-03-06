@@ -1,6 +1,7 @@
 # 🎮 Tic Tac Toe Online
-https://www.tictactoeonline.in/assets/logo.png
-
+<p align="center">
+  <img src="https://www.tictactoeonline.in/assets/logo.png" alt="TicTacToeOnline Logo" width="200">
+</p>
 **Rediscover the classic game you loved as a kid - now with friends online!**
 
 [![Play Now](https://img.shields.io/badge/🎮-Play%20Now-success)](https://www.tictactoeonline.in)
