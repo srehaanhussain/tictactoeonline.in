@@ -125,7 +125,7 @@ Built to create something wholesome in a world of stressful ranked games.
 - 🎉 Create friendly rivalries
 
 ### **For Long-Distance Relationships**
-- 💑 Simple way to stay connected
+-  Simple way to stay connected
 - ⏱️ No time commitment required
 - 📸 Share moments via stat cards
 - 🌍 Play across any distance
