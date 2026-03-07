@@ -146,8 +146,6 @@ Easy game everyone can enjoy together
 
 ✨ **"Perfect for quick breaks at work"**
 
-✨ **"My boyfriend and I play this every night"**
-
 ✨ **"Finally a game without toxic players!"**
 
 ✨ **"Love the stat cards feature!"**
